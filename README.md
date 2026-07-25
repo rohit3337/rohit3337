@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/u/Rohit_031003/">
-    <img src="https://leetcode.card.workers.dev/?username=Rohit_031003&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Rohit_031003?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
