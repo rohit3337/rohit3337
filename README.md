@@ -6,11 +6,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="Followers" />
+  <a href="https://github.com/rohit3337">
+    <img src="https://img.shields.io/github/followers/rohit3337?label=Followers&style=social" alt="Followers" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social" alt="Stars" />
+  <a href="https://github.com/rohit3337">
+    <img src="https://img.shields.io/github/stars/rohit3337?style=social" alt="Stars" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <a href="https://leetcode.com/u/Rohit_031003/">
+    <img src="https://leetcode.card.workers.dev/?username=Rohit_031003&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -53,15 +61,15 @@ High-performance file compression engine in C++ using Huffman coding, STL, and d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit3337&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit3337&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit3337&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
@@ -78,8 +86,8 @@ High-performance file compression engine in C++ using Huffman coding, STL, and d
 
 ### 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit3337/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Rohit_031003/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://rohit-craft.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
