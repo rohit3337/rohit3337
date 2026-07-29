@@ -2,7 +2,7 @@
 
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit3337/rohit3337/main/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit3337/rohit3337/main/light.svg"> <img alt="Rohit Chaudhary" src="https://raw.githubusercontent.com/rohit3337/rohit3337/main/light.svg"> </picture>
+<!-- <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit3337/rohit3337/main/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit3337/rohit3337/main/light.svg"> <img alt="Rohit Chaudhary" src="https://raw.githubusercontent.com/rohit3337/rohit3337/main/light.svg"> </picture> -->
 
 <!-- ===== GITHUB STATS ===== -->
 
