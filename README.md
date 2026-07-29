@@ -1,136 +1,93 @@
-
-# <h1 align="center">Hi 👋, I'm Rohit</h1>
-
-<h3 align="center">Backend Engineer • Agentic AI Builder • B.Tech Graduate</h3>
+<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h3 align="center">B.Tech Graduate | Backend Developer | Agentic AI Builder</h3>
 
 <p align="center">
-<img src="profile-foundit.jpeg" width="180" style="border-radius:50%;" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Development;Agentic+AI+Applications;DSA+%26+OOP;Python+%7C+Java+%7C+C%2B%2B&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=Backend+Engineer;Agentic+AI+Builder;Spring+Boot+%7C+Django+%7C+LangGraph;Python+%7C+Java+%7C+C%2B%2B;Always+Learning+Something+New" />
-</p>
-
----
-
-# 🚀 About Me
-
-```java
-class Rohit {
-    String role = "Backend Engineer";
-    String location = "India";
-    String[] languages = {
-        "Python","Java","C++"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Distributed Systems",
-        "Agentic AI",
-        "System Design"
-    };
-}
-```
-
-- 🎓 B.Tech Graduate (Electrical Engineering with Computer Science)
-- 💻 Backend Developer
-- 🤖 Building Agentic AI applications
-- 🌱 Learning scalable backend architecture
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,spring,django,nodejs,react,postgres,mysql,mongodb,docker,git,github,linux,vscode&perline=8"/>
+  <a href="https://github.com/rohit3337">
+    <img src="https://img.shields.io/github/followers/rohit3337?label=Followers&style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/rohit3337">
+    <img src="https://img.shields.io/github/stars/rohit3337?style=social" alt="Stars" />
+  </a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 Enginuity-ML
-- Agentic AI Tutor
-- Adaptive quizzes
-- LangGraph + PostgreSQL
-- Authentication Dashboard
-
-## 🌿 NirogaVerse
-- Multi-Agent Ayurvedic Assistant
-- Voice Interface
-- RAG
-- Structured wellness reports
-
-## ⚡ HuffZip
-- Huffman Coding
-- STL
-- File Compression
-- Modern C++
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit3337&show_icons=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohit3337"/>
-</p>
-
-<p align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit3337&layout=compact"/>
+<p align="left">
+  <a href="https://leetcode.com/u/Rohit_031003/">
+    <img src="https://leetcard.jacoblin.cool/Rohit_031003?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+### 👨‍💻 About Me
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit3337&theme=github-compact"/>
+* 🎓 B.Tech graduate in Electrical Engineering with Computer Science specialization
+* 💡 Strong foundation in DSA, OOP, REST APIs, and backend engineering
+* 🤖 Building AI-powered and agentic applications
+* 🛠️ Comfortable with Python, Java, and C++
+* 📍 Based in India
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,django,spring,postgresql,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+### 🚀 Featured Projects
 
-```yaml
-# .github/workflows/snake.yml
+#### Enginuity-ML
 
-name: Generate Snake
+Agentic AI tutor for machine learning concepts with adaptive quizzes, feedback-driven learning, and progress tracking.
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+#### Nirogaverse
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-```
+AI-powered Ayurvedic health assistant with multi-agent AI, voice support, and structured wellness guidance.
+
+#### HuffZip
+
+High-performance file compression engine in C++ using Huffman coding, STL, and data structures.
 
 ---
 
-# 🏆 Achievements
-
-- 🥇 HackSecure X 2026 — Top 11 / 250
-- 🥈 DEI Virtual Labs Hackathon — Top 20 / 200
-- 🏅 Anveshan 2025 North Zone Qualifier
-- 🎖 Agentic AI Engineering Certified
-
----
-
-# 📫 Connect
+### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit3337&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
-[LinkedIn](https://linkedin.com/in/rohit3337) •
-[Portfolio](https://rohit-craft.vercel.app/) •
-[LeetCode](https://leetcode.com/u/Rohit_031003/) •
-[GitHub](https://github.com/rohit3337)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit3337&theme=default" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit3337&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-⭐ If you like my work, consider giving a star!
+### 🏆 Achievements
+
+* HackSecure X International Hackathon 2026 — Top 11 of 250 teams globally
+* DEI Virtual Labs Hackathon 2026 — Top 20 of 200 teams
+* Anveshan Zonal Research Convention 2025 — Qualified for North Zone
+* Certified in Agentic AI Engineering
+* SIH Internal Hackathon 2024 — Institute-level selection
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit3337/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Rohit_031003/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://rohit-craft.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
