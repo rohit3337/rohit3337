@@ -1,45 +1,33 @@
 [
   {
-    "name": "LeadUnity",
-    "repo": "arifhaxn/lead_unity",
-    "logo": "logo.png",
-    "description": "Leading University's defense setup",
-    "tags": ["Flutter", "Dart", "NextJS"]
+    "name": "rohit-craft",
+    "repo": "rohit3337/rohit-craft",
+    "description": "Personal portfolio with polished sections, project highlights, and deployment links.",
+    "tags": ["JavaScript", "React", "Vercel"]
   },
   {
-    "name": "OnePick",
-    "repo": "arifhaxn/one_pick",
-    "logo": "op.png",
-    "description": "An One Piece trivia app to find your character",
-    "tags": ["Flutter", "Dart"]
+    "name": "Enginuity-ml_tutor",
+    "repo": "rohit3337/Enginuity-ml_tutor",
+    "description": "AI tutor for machine learning concepts with guided learning and adaptive support.",
+    "tags": ["TypeScript", "AI", "Next.js"]
   },
   {
-    "name": "Chessy",
-    "repo": "arifhaxn/chessy",
-    "logo": "chess.png",
-    "description": "Chess timer app for all types of variations",
-    "tags": ["Flutter", "Dart"]
+    "name": "Huffzip",
+    "repo": "rohit3337/Huffzip",
+    "description": "High-performance Huffman coding compressor built with C++ and data structures.",
+    "tags": ["C++", "Algorithms", "DSA"]
   },
   {
-    "name": "Claster",
-    "repo": "arifhaxn/Claster",
-    "logo": "claster.png",
-    "description": "A class scheduling app for teachers which is used to track routines",
-    "tags": ["Flutter", "Dart", "Firebase"]
+    "name": "microgrid_hackathon",
+    "repo": "rohit3337/microgrid_hackathon",
+    "description": "Hackathon project for microgrid workflows, dashboards, and lab-style collaboration.",
+    "tags": ["JavaScript", "Hackathon", "Web"]
   },
   {
-    "name": "OneTELE",
-    "repo": "arifhaxn/OneTELE---Liilab-Teleprompter",
-    "logo": "onetele.png",
-    "description": "A custom teleprompter for liilab's recording studio",
-    "tags": ["Flutter", "Dart"]
-  },
-  {
-    "name": "Career Logic AI",
-    "repo": "arifhaxn/CareerLogic-AI",
-    "logo": "cl.png",
-    "description": "An AI Powered CV management and assesment system for aspiring career builders",
-    "tags": ["Flutter", "Dart", "Groq"]
+    "name": "EVENT-MANAGEMENT-SYSTEM",
+    "repo": "rohit3337/EVENT-MANAGEMENT-SYSTEM",
+    "description": "Event management system for planning, coordination, and operational tracking.",
+    "tags": ["Java", "Web", "Systems"]
   }
 ]
 
