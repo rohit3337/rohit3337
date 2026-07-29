@@ -50,46 +50,41 @@
 <!-- ===== END SOCIAL BADGES ===== -->
 
 
-<h1 align="center">Hi, I'm Rohit</h1>
-<h3 align="center">Backend Developer | AI Builder | DSA Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rohit</h1>
+<h3 align="center">B.Tech Graduate | Backend Developer | Agentic AI Builder</h3>
 
 <p align="center">
-  B.Tech in Electrical Engineering with Computer Science specialization, based in Mathura, India.
-  I build backend systems, AI-powered applications, and project-focused web experiences.
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Development;Agentic+AI+Applications;DSA+%26+OOP;Python+%7C+Java+%7C+C%2B%2B&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/rohit3337">
     <img src="https://img.shields.io/github/followers/rohit3337?label=Followers&style=social" alt="Followers" />
   </a>
-  <a href="https://github.com/rohit3337?tab=repositories">
+  <a href="https://github.com/rohit3337">
     <img src="https://img.shields.io/github/stars/rohit3337?style=social" alt="Stars" />
-  </a>
-  <a href="https://leetcode.com/u/Rohit_031003/">
-    <img src="https://img.shields.io/badge/LeetCode-Rohit_031003-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile" />
   </a>
 </p>
 
-<div align="center">
-  <a href="https://rohit-craft.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=22D3EE" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohit3337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+---
+
+<p align="left">
   <a href="https://leetcode.com/u/Rohit_031003/">
-    <img src="https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://leetcard.jacoblin.cool/Rohit_031003?theme=light&font=baloo&ext=heatmap" alt="LeetCode Stats" />
   </a>
-</div>
+</p>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-* I focus on backend development, AI workflows, and problem solving.
-* I work with Python, JavaScript, TypeScript, Java, and C++.
-* I like building projects that mix practical engineering with clean UI.
-* I spend a lot of time on DSA and LeetCode practice.
+* 🎓 B.Tech graduate in Electrical Engineering with Computer Science specialization
+* 💡 Strong foundation in DSA, OOP, REST APIs, and backend engineering
+* 🤖 Building AI-powered and agentic applications
+* 🛠️ Comfortable with Python, Java, and C++
+* 📍 Based in India
+
+---
 
 ### Tech Stack
 
@@ -107,24 +102,4 @@
   </a>
 </p>
 
-### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit3337&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit3337&hide_border=true&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit3337&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohit3337/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/Rohit_031003/">LeetCode</a> ·
-  <a href="https://rohit-craft.vercel.app/">Portfolio</a>
-</p>
