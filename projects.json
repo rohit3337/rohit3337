@@ -28,6 +28,12 @@
     "repo": "rohit3337/EVENT-MANAGEMENT-SYSTEM",
     "description": "Event management system for planning, coordination, and operational tracking.",
     "tags": ["Java", "Web", "Systems"]
+  },
+  {
+    "name": "rohit-portfolio",
+    "repo": "rohit3337/rohit-portfolio",
+    "description": "Another portfolio showcase with a focus on personal branding and work samples.",
+    "tags": ["JavaScript", "Portfolio", "Frontend"]
   }
 ]
 
